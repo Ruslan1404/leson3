@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line from local
+=======
+line from local
+>>>>>>> 09b8debb159f4fd597e3fd726f9c02e579ab3faf
